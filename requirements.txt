@@ -1,1 +1,5 @@
-
+mss
+pillow
+pytesseract
+deep-translator
+pyinstaller
